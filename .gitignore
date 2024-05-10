@@ -1,0 +1,4 @@
+# paths to ignore
+/__pycache__
+/env1
+xscraps.py
